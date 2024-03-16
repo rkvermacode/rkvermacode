@@ -2,12 +2,13 @@
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
 <h2>🚀 Quick Overview</h2>
-- 💻 Java Developer
-- 🌱 I’m currently learning **Microservices, docker, React.js, Kubernetes**
-- 🔧 Proficient in Java, Spring, Spring Boot, and Hibernate
-- 🎨 Skilled in HTML and CSS for front-end development
-- 🕸️ Experience with Java Servlets and JSP for dynamic web content
-- 💬 Ask me about **java, spring, spring boot**
+<ul>
+  <li>💻 Java Developer</li>
+  <li>🌱 I’m currently learning <b>Microservices, docker, React.js, Kubernetes</b></li>
+  <li>🔧 Proficient in Java, Spring, Spring Boot, and Hibernate/JPA</li>
+  <li>🎨 Skilled in HTML and CSS for front-end development</li>
+  <li>🕸️ Experience with Java Servlets and JSP for dynamic web content</li>
+</ul>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkvermacode&label=Profile%20views&color=0e75b6&style=flat" alt="rkvermacode" /> </p>
