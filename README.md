@@ -5,7 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkvermacode" alt="rkvermacode" /></a> </p>
 
-- 🌱 I’m currently learning **Microservices, docker, React.js, Kubernetes**
+<h2>🚀 Quick Overview</h2>
+<ul>
+  <li>💻 Java Developer</li>
+  <li>🌱 I’m currently learning **Microservices, docker, React.js, Kubernetes**
+</li>
+  <li>🔧 Proficient in Java, Spring, Spring Boot, and Hibernate</li>
+  <li>🎨 Skilled in HTML and CSS for front-end development</li>
+  <li>🕸️ Experience with Java Servlets and JSP for dynamic web content</li>
+</ul>
+
+<hr>
 
 - 💬 Ask me about **java, spring, spring boot**
 
