@@ -7,6 +7,7 @@
 - 🔧 Proficient in Java, Spring, Spring Boot, and Hibernate
 - 🎨 Skilled in HTML and CSS for front-end development
 - 🕸️ Experience with Java Servlets and JSP for dynamic web content
+- 💬 Ask me about **java, spring, spring boot**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkvermacode&label=Profile%20views&color=0e75b6&style=flat" alt="rkvermacode" /> </p>
