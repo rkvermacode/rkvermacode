@@ -29,7 +29,7 @@
 
 <h2>📫 Contact Me</h2>
 <ul>
-  <li>Email: <b>rkmahoba8@gmail.com</b></li>
+  <li>Email: <b>rohitkumar150702@gmail.com</b></li>
 </ul>
 
 <h3 align="left">🌐 Connect With Me</h3>
