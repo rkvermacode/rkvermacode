@@ -3,15 +3,16 @@
 
 <h2>🚀 About Me</h2>
 <ul>
-  <li>📱 React Native Full Stack Developer from India</li>
-  <li>⚛️ Strong experience with <b>React Native (CLI), JavaScript & TypeScript</b></li>
-  <li>🧠 Backend expertise in <b>Node.js, Express.js, REST APIs</b></li>
-  <li>🔐 Implemented <b>JWT Authentication, Role-based Access & OTP systems</b></li>
-  <li>🗄️ Worked with <b>MongoDB & Mongoose</b> for scalable data models</li>
-  <li>🧩 Experience with <b>Redux, RTK Query, Context API</b></li>
-  <li>🤖 Built AI-powered features using <b>LLMs, LangChain & FastAPI APIs</b></li>
-  <li>🌱 Currently learning <b>Advanced Backend Architecture & Scalable APIs</b></li>
+  <li>📱 Mobile App Specialist with strong expertise in building production-grade React Native applications</li>
+  <li>🧩 Full Stack Developer delivering end-to-end solutions using modern JavaScript/TypeScript ecosystems</li>
+  <li>⚛️ Advanced experience in React Native architecture, state management, performance optimization, and scalable UI systems</li>
+  <li>🧠 Backend engineering expertise with Node.js, Express, and API-driven system design</li>
+  <li>🗄️ Proven experience designing scalable data models and backend services using MongoDB and relational databases</li>
+  <li>🤖 AI-focused developer integrating LLMs, LangChain workflows, and AI-powered features into real-world applications</li>
+  <li>🚀 Experience building SaaS-style features, automation flows, and intelligent systems, not just CRUD applications</li>
+  <li>🌱 Continuously improving system architecture, scalability, and AI-assisted product capabilities</li>
 </ul>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkvermacode&label=Profile%20views&color=0e75b6&style=flat" alt="rkvermacode" /> </p>
 
@@ -19,11 +20,11 @@
 
 <h2>💬 Ask Me About</h2>
 <ul>
-  <li>React Native (CLI)</li>
+  <li>React Native</li>
   <li>Node.js & Express APIs</li>
-  <li>JWT Auth, OTP, Zod Validation</li>
   <li>MongoDB & API Design</li>
   <li>Redux, RTK Query</li>
+  <li>GenAI, LLM, RAG</li>
 </ul>
 
 <h2>📫 Contact Me</h2>
