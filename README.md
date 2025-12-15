@@ -1,37 +1,75 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">A passionate Java Full Stack developer from India</h3>
+<h3 align="center">React Native Full Stack Developer | Node.js | API & Mobile App Specialist</h3>
 
-<h2>🚀 Quick Overview</h2>
+<h2>🚀 About Me</h2>
 <ul>
-  <li>💻 Java Developer</li>
-  <li>🌱 I’m currently learning <b>Microservices, docker, React.js, Kubernetes</b></li>
-  <li>🔧 Proficient in Java, Spring, Spring Boot, and Hibernate/JPA</li>
-  <li>🎨 Skilled in HTML and CSS for front-end development</li>
-  <li>🕸️ Experience with Java Servlets and JSP for dynamic web content</li>
+  <li>📱 React Native Full Stack Developer from India</li>
+  <li>⚛️ Strong experience with <b>React Native (CLI), JavaScript & TypeScript</b></li>
+  <li>🧠 Backend expertise in <b>Node.js, Express.js, REST APIs</b></li>
+  <li>🔐 Implemented <b>JWT Authentication, Role-based Access & OTP systems</b></li>
+  <li>🗄️ Worked with <b>MongoDB & Mongoose</b> for scalable data models</li>
+  <li>🧩 Experience with <b>Redux, RTK Query, Context API</b></li>
+  <li>🤖 Built AI-powered features using <b>LLMs, LangChain & FastAPI APIs</b></li>
+  <li>🌱 Currently learning <b>Advanced Backend Architecture & Scalable APIs</b></li>
 </ul>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rkvermacode&label=Profile%20views&color=0e75b6&style=flat" alt="rkvermacode" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkvermacode" alt="rkvermacode" /></a> </p>
-
-- 💬 Ask me about **java, spring, spring boot**
-
-- 📫 How to reach me **rkmahoba8@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_rohitverma15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rohitverma15" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohit15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit15" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rkvermacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rkvermacode" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rkvermacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rkvermacode" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rkvermacode&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h2>💬 Ask Me About</h2>
+<ul>
+  <li>React Native (CLI)</li>
+  <li>Node.js & Express APIs</li>
+  <li>JWT Auth, OTP, Zod Validation</li>
+  <li>MongoDB & API Design</li>
+  <li>Redux, RTK Query</li>
+</ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkvermacode&show_icons=true&locale=en&layout=compact" alt="rkvermacode" /></p>
+<h2>📫 Contact Me</h2>
+<ul>
+  <li>Email: <b>rkmahoba8@gmail.com</b></li>
+</ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkvermacode&show_icons=true&locale=en" alt="rkvermacode" /></p>
+<h3 align="left">🌐 Connect With Me</h3>
+<p align="left">
+  <a href="https://twitter.com/_rohitverma15" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/rohit15" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/rkvermacode" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/rkvermacode" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkvermacode&" alt="rkvermacode" /></p>
+<h3 align="left">🛠️ Tech Stack</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40" height="40"/>
+</p>
+
+<h3>📊 GitHub Stats</h3>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkvermacode&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rkvermacode&show_icons=true" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkvermacode" />
+</p>
